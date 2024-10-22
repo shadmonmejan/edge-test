@@ -1,2 +1,0 @@
-#! /bin/bash
-microsoft-edge ${EDGE_CLI}
